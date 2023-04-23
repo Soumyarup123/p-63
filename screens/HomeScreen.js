@@ -75,6 +75,7 @@ export default class HomeScreen extends Component{
         />
         <View style={styles.inputBoxContainer}>
       
+        {/*
         <Text 
            onChangeText={text => {
               this.setState({
@@ -87,6 +88,7 @@ export default class HomeScreen extends Component{
               });
            }}
         />
+          */}
   
      {/*   <input 
            onChangeText={text => {
